@@ -4,5 +4,3 @@ commit start
 
 a
 b
-c
-
